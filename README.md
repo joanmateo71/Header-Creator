@@ -1,6 +1,6 @@
 # Header Creator
 
-That script make headers for scripts or files.
+This script make headers for scripts or files.
 
 There are two versions:
 
