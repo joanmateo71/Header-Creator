@@ -1,2 +1,3 @@
 # headercreator
-Header Creator is a script that makes a header for scripts.
+
+That script makes headers for scripts or files. 
