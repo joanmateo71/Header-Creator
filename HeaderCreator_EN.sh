@@ -56,12 +56,12 @@ echo "
 
 #====================================================================================================
 # File Name: 	        $nameFile
-# Author:	            $autor
-# Date:		            $ActualDate
-# Version:		        $version	
+# Author:	        $autor
+# Date:		        $ActualDate
+# Version:		$version	
 # Execution command:	$usage
-# Description:		    $description
-# License:	          $license
+# Description:		$description
+# License:	        $license
 #===================================================================================================="
 
 sleep 1
