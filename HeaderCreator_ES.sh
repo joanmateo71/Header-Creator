@@ -1,9 +1,9 @@
 #!/bin/bash
 
 #===============================================================================================================================================================
-# Nombre:   				      HeaderCreator_ES
-# Autor:   					      Joan Mateo Salazar
-# Fecha:					        03/09/2021
+# Nombre:			HeaderCreator_ES
+# Autor:			Joan Mateo Salazar
+# Fecha:			03/09/2021
 # Versión:              	1.0
 # Comando de ejecución:		bash HeaderCreator_EN.sh
 # Descripción:          	Crea automaticamente cabeceras para scripts
@@ -55,13 +55,13 @@ echo "
 #!/bin/bash
 
 #====================================================================================================
-# Nombre: 					$nameFile
-# Autor:					$autor
-# Fecha:					$ActualDate
-# Versión:					$version	
+# Nombre:			$nameFile
+# Autor:			$autor
+# Fecha:			$ActualDate
+# Versión:			$version	
 # Comando de ejecución:		$usage
-# Descripción:				$description
-# Licencia:					$license
+# Descripción:			$description
+# Licencia:			$license
 #===================================================================================================="
 
 sleep 1
