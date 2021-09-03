@@ -18,7 +18,7 @@ echo "Put the script/file name:"
 read nameFile
 
 echo "Put the author of the script:"
-read autor
+read author
 
 echo "The current date will be added automatically."
 ActualDate=$(date +"%d"/"%m"/"%Y") 
@@ -60,7 +60,7 @@ echo "
 # Date:		            $ActualDate
 # Version:		        $version	
 # Execution command:	$usage
-# Descripción:		    $description
+# Description:		    $description
 # License:	          $license
 #===================================================================================================="
 
