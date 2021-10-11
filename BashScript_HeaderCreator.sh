@@ -1,5 +1,15 @@
 #!/bin/bash
 
+#====================================================================================================
+# Name:					Header Creator
+# Author:				Joan Mateo
+# Date:					11/10/2021
+# Version:				2.0	
+# Execution command:			bash Bash_HeaderCreator.sh
+# Description:				Make header for bash scripts
+# Licenses:				This is free software, licensed under the MIT Massachusetts Institute of Technology. See https://mit-license.org/ for more information.
+#====================================================================================================
+
 echo "Idioma/Language [ es / en ]"
 read Idioma
 if [ $Idioma == es ];
@@ -83,7 +93,7 @@ read version
 echo "Put the execution command:"
 read usage
 
-echo "Put the description of the script"
+echo "Put the description of the script:"
 read description
 
 echo "What license would you add to your script? [g] = GPL v3.0 / [m] = MIT."
@@ -124,6 +134,7 @@ exit 0
 
 else 
 	sleep 1
-	echo Escoge bien la opción.  
+	echo Escoge bien la opción / Choose the correct option.
+	exit 1
 fi
 fi
