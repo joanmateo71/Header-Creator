@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #====================================================================================================
-# Name:					Header Creator
+# Name:					Header Creator (Bash Script)
 # Author:				Joan Mateo
 # Date:					11/10/2021
 # Version:				2.0	
